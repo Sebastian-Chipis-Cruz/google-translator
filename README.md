@@ -1,24 +1,29 @@
 # Google translator
+
 A Simple Extension for VSCode to search easily using Google translator
 
-### If you use [Google translator](), I have an extension for that too!
+## If you use [Google translator](https://marketplace.visualstudio.com/items?itemName=sebastianchipis.google-translator), I have an extension for that too
 
-# What it does:
+## What it does
+
 Takes you to google translate in your default web browser without typing or copying everything!
 
-## How it works!
+## How it works
+
 Simply select the word you want to translate, then right click and click `Google Translate` in the drop down menu.
 
-# See it in Action
-#### when you select the text and right click you'll see `Google Translate` in your drop-down menu
+## See it in Action
 
-<!-- ![drop-down-menu]() -->
+### when you select the text and right click you'll see `Google Translate` in your drop-down menu
+
+![drop-down-menu](https://github.com/Sebastian-Chipis-Cruz/google-translator/blob/main/resources/example-1.png?raw=true)
 
 ## How it opens in browser
 
 <!-- ![browser-query-results]() -->
 
 ## Licencia
+
 This project is licensed under the (Your License MIT) License - see the LICENSE file for details
 
 ### If you encounter any issues, please let me know [here](https://github.com/Sebastian-Chipis-Cruz/Google-translator/issues)
