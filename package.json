@@ -2,7 +2,7 @@
   "name": "google-translator",
   "displayName": "google-translator",
   "description": "Google translate your doubts, errors and confusions!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "sebastianchipis",
   "license": "MIT",
   "engines": {
@@ -47,7 +47,7 @@
       "properties": {
         "googleTranslator.QueryTemplate": {
           "type": "string",
-          "default":"https://translate.google.com.mx/?s=false&sl=auto&tl=en&text=%SELECTION%",
+          "default": "https://translate.google.com.mx/?s=false&sl=auto&tl=en&text=%SELECTION%",
           "description": "Search Query"
         }
       }
